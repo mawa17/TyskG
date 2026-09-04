@@ -30,7 +30,7 @@ en/et eller den/det/de
 
 På tysk:
 
-	Hankøn	Hunkøn	Intetkøn	Flertal
+Hankøn	Hunkøn	Intetkøn	Flertal
 bestemt	der	die	das	die
 ubestemt	ein	eine	ein	—
 Bestemt = bestemt ting
